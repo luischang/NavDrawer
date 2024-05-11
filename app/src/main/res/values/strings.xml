@@ -14,4 +14,6 @@
     <string name="valbtsave">LOGIN</string>
     <string name="valetemail">Enter email</string>
     <string name="valetpassword">Enter password</string>
+    <string name="valetrul">Enter URL https</string>
+    <string name="valbtgorul">GO URL</string>
 </resources>
